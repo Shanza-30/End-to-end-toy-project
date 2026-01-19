@@ -15,7 +15,6 @@ Download the dataset and install required libraries.
 Set up the environment for running the code.
 
 How to Run the Code
-
 Load and preprocess the dataset.
 Train the model and test its accuracy.
 Analyze results through graphs and metrics.
